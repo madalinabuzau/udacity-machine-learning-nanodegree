@@ -50,3 +50,6 @@ Thumbs.db
 /boston_housing/*.md
 /boston_housing/*.py
 /boston_housing/*.pyc
+/customer_segments/*.md
+/customer_segments/*.py
+/customer_segments/*.pyc

@@ -53,3 +53,5 @@ Thumbs.db
 /customer_segments/*.md
 /customer_segments/*.py
 /customer_segments/*.pyc
+/multidigit_recognition/*.md
+/multidigit_recognition/*.pyc
